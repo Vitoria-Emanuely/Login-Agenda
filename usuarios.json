@@ -1,0 +1,21 @@
+
+
+[
+
+  {
+
+    "id":1,
+    "usuario": "admin",
+    "senha": "admin",
+    "nome" : "Administrador"
+  },
+
+  {
+
+    "id":2,
+    "usuario": "jason",
+    "senha": "1234",
+    "nome" : "Jason Busca Almas"
+  }
+
+]
